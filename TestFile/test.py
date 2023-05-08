@@ -1,1 +1,1 @@
-print("hello world!")
+print("이창민 바보")
